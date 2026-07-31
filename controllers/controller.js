@@ -2,7 +2,7 @@ exports.getdefault = function(req, res){
   res.send('You are on the root route.'); 
 };
 //
-exports.aboutu = function(req, res){
+exports.aboutus = function(req, res){
   res.send('You are on the about us route.');
 };
 //
